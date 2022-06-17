@@ -924,7 +924,7 @@ h1{
     .questionone{
         text-align:justify;
         /* width: 400px; */
-        width: 120px;
+        width: 100px;
         margin: 80px auto;
         color: #ffffff;
         font-size: 10px;
@@ -932,10 +932,10 @@ h1{
     .questiononeanswer{
         text-align:justify;
         /* width: 500px; */
-        width: 120px;
-        margin: 50% auto;
+        width: 100px;
+        margin: 30% auto;
         color: #ffffff;
-        font-size: 10px;
+        font-size: 9px;
     }
     .firstflipcardinner {
         position: relative;
